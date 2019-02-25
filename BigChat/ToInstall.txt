@@ -1,0 +1,2 @@
+npm install react-native-google-signin
+npm install react-native-fbsdk
